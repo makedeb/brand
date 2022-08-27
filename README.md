@@ -1,10 +1,5 @@
 # makedeb Branding
 This repository contains branding guidelines as well as assets related to makedeb's branding. makedeb doesn't currently follow that many rules, but a few things have been put in place to make things a bit consistent.
 
-## Colors
-The color scheme for makedeb follows colors based on that of Debian, Ubuntu, Arch Linux, and Manjaro:
-
-- Debian: #BB0035
-- Ubuntu: #F24D00
-- Arch Linux: #0796DE
-- Manjaro: #40DE6D
+## Usage restrictions
+The logos under `png/` are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nd/4.0) license. Any other files in this repository need permission before they're used.
